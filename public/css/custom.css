@@ -1,0 +1,95 @@
+/* Fit Logo Title to Existing Template */
+div.logo > a.brand > span.logo_title {
+	font-size: 2em;
+	font-weight: 500;
+	color: #428BCA;
+	font-style: italic;
+}
+
+.treatment-list {
+	list-style-type: none;
+	padding: 0px 0px 10px 0px;
+}
+
+.treatment-list li {
+	font-size: 1.25em;
+	border-radius: 5px;
+	border: 1px #428BCA solid;
+	margin: 10px 0px;
+	padding: 2px;
+}
+
+.pricing_plan h3 {
+	background-color: #7EB0DB;
+	color: #FFF;
+	max-height: 156px;
+	vertical-align: middle;
+	padding: 60px 10px;
+}
+
+.pricing_plan {
+	margin-bottom: 25px;
+}
+
+.fee-insurance {
+	text-align: center;
+	font-size: 20px;
+	font-style: italic;
+	border: 1px green solid;
+	border-radius: 5px;
+	padding: 10px;
+}
+
+div .top_bar .tob_bar_right_col {
+	min-height: 45px;
+	padding-top: 10px;
+}
+
+.top_bar .tob_bar_right_col span.top-bar-contact {
+	font-size: 18px;
+	padding-bottom: 25px;
+}
+
+.top_bar .tob_bar_right_col span.top-bar-contact:hover {
+	color: #7EB0DB;
+	font-style: italic;
+}
+
+.top_bar .tob_bar_right_col span.top-bar-contact:nth-child(2) i {
+	padding-left: 20px;
+}
+
+.top_bar .tob_bar_right_col span.top-bar-contact i {
+	border-right: 2px #7EB0DB solid;
+	padding-right: 5px;
+}
+
+.footer_teaser p {
+	font-size: 18px;
+}
+
+.footer_social {
+	padding: 0px;
+	text-align: center;
+}
+
+div.main footer section.footer_teasers_wrapper.dark_section {
+	padding-top: 25px;
+	padding-bottom: 25px;
+	margin-bottom: 25px;
+	margin-top: -25px;
+}
+
+div.main footer section.footer_teasers_wrapper.dark_section div.container.triangles-of-section {
+	margin-top: 75px;
+}
+
+
+div.main footer div.copyright div {
+	font-size: 16px;
+	text-align: center;
+}
+
+div.footer_teaser.pl_about_us_widget {
+	text-align: center;
+}
